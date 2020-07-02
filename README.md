@@ -1,4 +1,4 @@
-# CEB-E18
+# lawancovid-19
 Tugas kelompok E-18 Minggu ke-2 
 
 Anggota:
