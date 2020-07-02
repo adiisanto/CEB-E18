@@ -60,7 +60,8 @@ main aside {
 /*Content (Samping Kiri)*/
 #tentang,
 #covid-19,
-#penularan {
+#penularan, 
+#pencegahan {
 	width: 100%;
 	height: auto;
 	background-color: #27617B;
@@ -70,14 +71,10 @@ main aside {
 }
 
 
-#pencegahan {
-	margin: 0;
-}
-
-
 #tentang h2,
 #covid-19 h2,
-#penularan h2 {
+#penularan h2,
+#pencegahan h2 {
 	font-size: 22px;
 	text-align: center;
 	margin-bottom: 20px;
@@ -86,7 +83,8 @@ main aside {
 
 #tentang img,
 #covid-19 img,
-#penularan img {
+#penularan img,
+#pencegahan img {
 	display: block;
 	width: 200px;
 	padding: 15px 0;
@@ -128,7 +126,8 @@ figcaption a {
 
 #tentang p,
 #covid-19 p,
-#penularan p {
+#penularan p, 
+#pencegahan p{
 	text-align: justify;
 	line-height: 1.5em;
 }
